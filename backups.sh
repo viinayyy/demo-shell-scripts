@@ -6,6 +6,10 @@ src /home/ubuntu/scripts
 dest /home.ubuntu/backups
 info
 
+<<info 
+this takes backups and can also 
+auto schedule using crontab
+info
 
 src="$1"
 dest="$2"
