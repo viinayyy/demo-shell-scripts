@@ -10,6 +10,11 @@ info
 this takes backups and can also 
 auto schedule using crontab
 info
+<<help
+wokr in 
+progress
+help
+
 
 src="$1"
 dest="$2"
